@@ -64,8 +64,9 @@ New → In Progress → Joined → Rejoined → Rejected → Closed → Cancelle
 - Performance analytics
 
 ---
+---
 
 ## Author
-**Ram Ganesh Karri**
-B.Tech Information Technology
-
+**Ram Ganesh Karri**  
+B.Tech – Information Technology  
+ServiceNow Developer
