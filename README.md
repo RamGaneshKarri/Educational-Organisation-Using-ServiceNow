@@ -66,4 +66,6 @@ New → In Progress → Joined → Rejoined → Rejected → Closed → Cancelle
 ---
 
 ## Author
-Ram Ganesh Karri
+**Ram Ganesh Karri**
+B.Tech Information Technology
+
